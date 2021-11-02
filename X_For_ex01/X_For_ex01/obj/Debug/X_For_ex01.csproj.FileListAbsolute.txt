@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\X_For_ex01\X_For_ex01\bin\Debug\X_For_ex01.exe.config
+C:\Users\Administrator\Desktop\X_For_ex01\X_For_ex01\bin\Debug\X_For_ex01.exe
+C:\Users\Administrator\Desktop\X_For_ex01\X_For_ex01\bin\Debug\X_For_ex01.pdb
+C:\Users\Administrator\Desktop\X_For_ex01\X_For_ex01\obj\Debug\X_For_ex01.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\X_For_ex01\X_For_ex01\obj\Debug\X_For_ex01.Form1.resources
+C:\Users\Administrator\Desktop\X_For_ex01\X_For_ex01\obj\Debug\X_For_ex01.Properties.Resources.resources
+C:\Users\Administrator\Desktop\X_For_ex01\X_For_ex01\obj\Debug\X_For_ex01.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\X_For_ex01\X_For_ex01\obj\Debug\X_For_ex01.exe
+C:\Users\Administrator\Desktop\X_For_ex01\X_For_ex01\obj\Debug\X_For_ex01.pdb

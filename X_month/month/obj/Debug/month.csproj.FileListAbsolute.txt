@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\month\month\bin\Debug\month.exe.config
+C:\Users\Administrator\Desktop\month\month\bin\Debug\month.exe
+C:\Users\Administrator\Desktop\month\month\bin\Debug\month.pdb
+C:\Users\Administrator\Desktop\month\month\obj\Debug\month.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\month\month\obj\Debug\month.Form1.resources
+C:\Users\Administrator\Desktop\month\month\obj\Debug\month.Properties.Resources.resources
+C:\Users\Administrator\Desktop\month\month\obj\Debug\month.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\month\month\obj\Debug\month.exe
+C:\Users\Administrator\Desktop\month\month\obj\Debug\month.pdb

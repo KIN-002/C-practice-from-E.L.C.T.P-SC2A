@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\X_exchange\X_exchange\bin\Debug\X_exchange.exe.config
+C:\Users\Administrator\Desktop\X_exchange\X_exchange\bin\Debug\X_exchange.exe
+C:\Users\Administrator\Desktop\X_exchange\X_exchange\bin\Debug\X_exchange.pdb
+C:\Users\Administrator\Desktop\X_exchange\X_exchange\obj\Debug\X_exchange.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\X_exchange\X_exchange\obj\Debug\X_exchange.Form1.resources
+C:\Users\Administrator\Desktop\X_exchange\X_exchange\obj\Debug\X_exchange.Properties.Resources.resources
+C:\Users\Administrator\Desktop\X_exchange\X_exchange\obj\Debug\X_exchange.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\X_exchange\X_exchange\obj\Debug\X_exchange.exe
+C:\Users\Administrator\Desktop\X_exchange\X_exchange\obj\Debug\X_exchange.pdb
