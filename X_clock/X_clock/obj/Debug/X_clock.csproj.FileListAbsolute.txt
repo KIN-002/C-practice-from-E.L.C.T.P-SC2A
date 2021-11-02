@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\X_clock\X_clock\bin\Debug\X_clock.exe.config
+C:\Users\Administrator\Desktop\X_clock\X_clock\bin\Debug\X_clock.exe
+C:\Users\Administrator\Desktop\X_clock\X_clock\bin\Debug\X_clock.pdb
+C:\Users\Administrator\Desktop\X_clock\X_clock\obj\Debug\X_clock.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\X_clock\X_clock\obj\Debug\X_clock.Form1.resources
+C:\Users\Administrator\Desktop\X_clock\X_clock\obj\Debug\X_clock.Properties.Resources.resources
+C:\Users\Administrator\Desktop\X_clock\X_clock\obj\Debug\X_clock.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\X_clock\X_clock\obj\Debug\X_clock.exe
+C:\Users\Administrator\Desktop\X_clock\X_clock\obj\Debug\X_clock.pdb
