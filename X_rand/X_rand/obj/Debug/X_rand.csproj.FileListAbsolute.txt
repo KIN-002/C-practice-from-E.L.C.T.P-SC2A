@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\X_rand\X_rand\bin\Debug\X_rand.exe.config
+C:\Users\Administrator\Desktop\X_rand\X_rand\bin\Debug\X_rand.exe
+C:\Users\Administrator\Desktop\X_rand\X_rand\bin\Debug\X_rand.pdb
+C:\Users\Administrator\Desktop\X_rand\X_rand\obj\Debug\X_rand.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\X_rand\X_rand\obj\Debug\X_rand.Form1.resources
+C:\Users\Administrator\Desktop\X_rand\X_rand\obj\Debug\X_rand.Properties.Resources.resources
+C:\Users\Administrator\Desktop\X_rand\X_rand\obj\Debug\X_rand.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\X_rand\X_rand\obj\Debug\X_rand.exe
+C:\Users\Administrator\Desktop\X_rand\X_rand\obj\Debug\X_rand.pdb

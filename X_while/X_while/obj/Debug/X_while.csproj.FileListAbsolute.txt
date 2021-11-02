@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\X_while\X_while\bin\Debug\X_while.exe.config
+C:\Users\Administrator\Desktop\X_while\X_while\bin\Debug\X_while.exe
+C:\Users\Administrator\Desktop\X_while\X_while\bin\Debug\X_while.pdb
+C:\Users\Administrator\Desktop\X_while\X_while\obj\Debug\X_while.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\X_while\X_while\obj\Debug\X_while.Form1.resources
+C:\Users\Administrator\Desktop\X_while\X_while\obj\Debug\X_while.Properties.Resources.resources
+C:\Users\Administrator\Desktop\X_while\X_while\obj\Debug\X_while.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\X_while\X_while\obj\Debug\X_while.exe
+C:\Users\Administrator\Desktop\X_while\X_while\obj\Debug\X_while.pdb
