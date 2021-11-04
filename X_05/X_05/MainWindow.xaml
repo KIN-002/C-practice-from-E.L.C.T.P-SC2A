@@ -1,0 +1,25 @@
+﻿<Window x:Class="X_05.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:X_05"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="339.516" Width="338.473">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="98*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="416*"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="label" Content="Label" HorizontalAlignment="Left" Height="100" Grid.RowSpan="2" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="隨機生成10個數, 並找出當中最小及最大值" HorizontalAlignment="Left" Height="52" VerticalAlignment="Top" Width="235" RenderTransformOrigin="0.733,0.7" Grid.Column="1" Margin="5,10,0,0" Grid.Row="1" Click="button_Click"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Right" Height="171" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="147" Grid.Column="1" Margin="0,67,170,0" Grid.Row="1" IsReadOnly="True"/>
+        <Label x:Name="label1" Content="最大值:" HorizontalAlignment="Left" Height="31" VerticalAlignment="Top" Width="100" Grid.Column="1" Margin="171,81,0,0" Grid.Row="1"/>
+        <Label x:Name="label2" Content="最小值:" HorizontalAlignment="Left" Height="38" VerticalAlignment="Top" Width="100" Grid.Column="1" Margin="171,138,0,0" Grid.Row="1"/>
+
+    </Grid>
+</Window>
